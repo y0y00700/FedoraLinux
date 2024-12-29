@@ -1,0 +1,25 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-949-2000"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Server-s001.vmdk"
+RW 8323072 SPARSE "Server-s002.vmdk"
+RW 8323072 SPARSE "Server-s003.vmdk"
+RW 8323072 SPARSE "Server-s004.vmdk"
+RW 8323072 SPARSE "Server-s005.vmdk"
+RW 327680 SPARSE "Server-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "ebb98a65ad19db3ed77e9234fffffffe"
+ddb.uuid = "60 00 C2 9d df de 4a fe-e6 c7 cd 2b 82 91 d4 4e"
+ddb.virtualHWVersion = "21"

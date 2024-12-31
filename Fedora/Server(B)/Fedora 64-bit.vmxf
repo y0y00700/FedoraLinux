@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 58 96 05 db 04 b5 9b-b4 19 ad 44 ab 5e ac 31</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Fedora 64-bit.vmx</vmxPathName></VM></Foundry>
